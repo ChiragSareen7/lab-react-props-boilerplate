@@ -1,0 +1,13 @@
+/* add your styles here */
+img{
+    width: 40vw;
+    height: 30vw;
+}
+.row{
+    display: grid;
+    grid-template-columns: repeat(2, .5fr);
+    justify-items: center;
+}
+h1{
+    text-align: center;
+}
